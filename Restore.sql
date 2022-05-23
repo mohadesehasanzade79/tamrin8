@@ -1,0 +1,1 @@
+RESTORE DATABASE Assets FROM DISK = ' D :\MyProject Backups\Assets.bak ' ;
